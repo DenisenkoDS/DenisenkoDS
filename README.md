@@ -2,9 +2,7 @@
 
 - 👀 Интересуюсь ML, инвестиции, спорт, путешествиями
 - :space_invader: PERN stack
-- 📫 Как связаться: [Почта](denisenkodc@yandex.ru)
-Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-
+- 📫 Как связаться: [Почта](denisenkodc@yandex.ru), [Telegram](https://t.me/denisenko_ds)
 
 <br/>
 <br/>
