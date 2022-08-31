@@ -12,9 +12,7 @@
 [![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)](https://jupyter.org)
 [![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)](https://plotly.com)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)](https://www.docker.com)
-
-**...**
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)](https://www.docker.com)   **...**
 
 [![codewars](https://www.codewars.com/users/Denisenko/badges/small)](https://www.codewars.com/users/Denisenko)
 
