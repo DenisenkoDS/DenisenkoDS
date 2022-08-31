@@ -18,7 +18,7 @@
 
 ---
 ### GitHub cтатистика:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DenisenkoDS/github-readme-stats)
+[![Denisenko GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DenisenkoDS/github-readme-stats)
 
 <!---
 juljuliks/juljuliks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
