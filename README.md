@@ -4,7 +4,7 @@
 - 📫 Как связаться: denisenkodc@yandex.ru или [Telegram](https://t.me/denisenko_ds).
 
 ---
-## Мой стек:
+Мой стек:
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
