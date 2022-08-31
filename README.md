@@ -1,7 +1,7 @@
 ### Привет! Я - Дима, Data Scientist!
 
 - 👀 Интересуюсь: ML, инвестиции, спорт, путешествиями
-- 📫 Как связаться: [Почта](denisenkodc@yandex.ru), [Telegram](https://t.me/denisenko_ds)
+- 📫 Как связаться: denisenkodc@yandex.ru или [Telegram](https://t.me/denisenko_ds)
 
 <br/>
 <br/>
