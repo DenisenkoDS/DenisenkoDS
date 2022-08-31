@@ -18,7 +18,7 @@
 
 ---
 ### GitHub cтатистика:
-[![Denisenko GitHub stats](https://github-readme-stats.vercel.app/api?username=juljuliks&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/DenisenkoDS)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/DenisenkoDS)
 
 <!---
 juljuliks/juljuliks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
