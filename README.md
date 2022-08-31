@@ -3,9 +3,6 @@
 - 👀 Интересуюсы: ML, инвестиции, спорт, путешествия, [кино](https://www.youtube.com/watch?v=y1e_BBdV3iA).
 - 📫 Как связаться: denisenkodc@yandex.ru или [Telegram](https://t.me/denisenko_ds).
 
-<br/>
-
-
 ---
 ### Мой стек:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
@@ -19,10 +16,6 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 [![codewars](https://www.codewars.com/users/Denisenko/badges/small)](https://www.codewars.com/users/Denisenko)
-
-<br/>
-
-
 
 ---
 ### GitHub cтатистика:
