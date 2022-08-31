@@ -4,12 +4,12 @@
 - 📫 Как связаться: denisenkodc@yandex.ru или [Telegram](https://t.me/denisenko_ds).
 
 ---
-####Мой стек:
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+#### Мой стек:
+[![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)](https://pandas.pydata.org)
+[![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)](https://numpy.org)
+[![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/stable/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)](https://jupyter.org)
+[![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)](https://plotly.com)
 
 [![codewars](https://www.codewars.com/users/Denisenko/badges/small)](https://www.codewars.com/users/Denisenko)
 
