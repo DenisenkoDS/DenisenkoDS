@@ -4,14 +4,15 @@
 - 📫 Как связаться: denisenkodc@yandex.ru или [Telegram](https://t.me/denisenko_ds).
 
 <br/>
-<br/>
+
 
 ---
 ### Мой стек:
 
 Позже ...
-<br/>
-<br/>
+
+[![codewars](https://www.codewars.com/users/Denisenko/badges/small)](https://www.codewars.com/users/Denisenko)
+
 <br/>
 
 
