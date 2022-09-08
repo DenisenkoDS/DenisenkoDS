@@ -1,6 +1,6 @@
 #### Привет! Я - Дима, Data Scientist!
 
-- 👀 Интересы: ML, инвестиции, спорт, путешествия, [кино](https://www.youtube.com/watch?v=y1e_BBdV3iA).
+- 👀 Интересы: ML, инвестиции, спорт, [кино](https://www.youtube.com/watch?v=y1e_BBdV3iA).
 - 📫 Как связаться: denisenkodc@yandex.ru или [Telegram](https://t.me/denisenko_ds).
 
 ---
