@@ -18,4 +18,4 @@
 
 ---
 #### GitHub cтатистика:
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisenkoDS&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/DenisenkoDS)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=DenidenkoDS)
