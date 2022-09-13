@@ -18,4 +18,4 @@
 
 ---
 #### GitHub cтатистика:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisenkoDS&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisenkoDS&show_icons=true&theme=dracula)
